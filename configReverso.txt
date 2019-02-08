@@ -1,0 +1,15 @@
+# ARQUIVOS CONFIGURA LOCAL
+$ORIGEM=C:\Users\f8174744\Desktop\Development\FAB-workspace\fab-teste
+$DESTINO=C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula
+
+# ARQUIVOS EXCEÇÃO (IGNORADOS)
+# Arquivos Especificos
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fab-teste\WebContent\WEB-INF\web.xml
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fab-teste\WebContent\WEB-INF\fabula\spring-data.xml
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fab-teste\WebContent\WEB-INF\fabula\spring-security.xml
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fab-teste\WebContent\WEB-INF\fabula\spring-servlet.xml
+
+# Diretorios
+ 
+# Arquivos pelo nome
+Thumbs.db

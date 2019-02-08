@@ -1,0 +1,20 @@
+# ARQUIVOS CONFIGURA LOCAL
+$ORIGEM=C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula
+$DESTINO=C:\Users\f8174744\Desktop\Development\FAB-workspace\fab-teste
+
+# ARQUIVOS EXCEÇÃO (IGNORADOS)
+# Arquivos Especificos
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\.classpath
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\.project
+
+# Diretorios
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\.settings
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\build
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\WebContent\META-INF
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\WebContent\upload
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\WebContent\resources\img\background
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\WebContent\resources\img\background-quarentena
+C:\Users\f8174744\Desktop\Development\FAB-workspace\fabula\WebContent\resources\img\background-temp
+ 
+# Arquivos pelo nome
+Thumbs.db
